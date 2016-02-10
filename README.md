@@ -13,7 +13,7 @@ Usage:
 * maybe you need a bash script wrapper to pass an arguments
 * if you have problem with passing arguments to wlst.sh, try to remove space between parameter and valud - i.e. manageServers.py -uusername -ppaswword -aadminUrl -nservername -caction
 
-*Init.d scripts:*
+*init.d scripts:*
 ---------------
 
 * **single-node-full-initd/weblogic.sh**: complete script that start/stop nodemanager, admin server and managed servers
